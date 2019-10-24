@@ -54,4 +54,3 @@ I am starting this repo on Greedy algorithm resources and some basic question on
 
 -   [ALTARAY](https://www.codechef.com/problems/ALTARAY)
 -   [DBOY](https://www.codechef.com/problems/DBOY)
-
