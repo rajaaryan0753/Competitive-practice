@@ -1,0 +1,4 @@
+Link for Questions based on Greedy Algorithm
+
+1)https://www.codechef.com/problems/ALTARAY
+2)https://www.codechef.com/problems/DBOY
